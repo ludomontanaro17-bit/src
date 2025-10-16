@@ -7,3 +7,6 @@ python3 main.py
 
 # Head line 
 ## Sottoparagrafo
+
+
+``` i backtick su mac si fanno premendo options+\
